@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @housecricket
+- 👋 Hi, I’m Trung Anh Dang
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on edu apps
